@@ -1,0 +1,80 @@
+[api-updater (non-obsolete-error-filter)] 1/15/2022 9:01:58 AM : Starting C:/Users/lukas/UnityWorklol/2020.3.25f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 2756.3685ms
+moved types parse time: 191ms
+candidates parse time : 28ms
+C# parse time         : 1277ms
+candidates check time : 59ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 1/15/2022 9:11:16 AM : Starting C:/Users/lukas/UnityWorklol/2020.3.25f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 155.9106ms
+moved types parse time: 75ms
+candidates parse time : 2ms
+C# parse time         : 286ms
+candidates check time : 38ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 1/15/2022 9:11:29 AM : Starting C:/Users/lukas/UnityWorklol/2020.3.25f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 128.605ms
+moved types parse time: 74ms
+candidates parse time : 2ms
+C# parse time         : 275ms
+candidates check time : 40ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 1/26/2022 3:19:29 PM : Starting C:/Users/lukas/UnityWorklol/2020.3.25f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 3156.0387ms
+moved types parse time: 116ms
+candidates parse time : 4ms
+C# parse time         : 814ms
+candidates check time : 58ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 1/27/2022 9:21:23 AM : Starting C:/Users/lukas/UnityWorklol/2020.3.25f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 3486.2253ms
+moved types parse time: 307ms
+candidates parse time : 11ms
+C# parse time         : 1390ms
+candidates check time : 144ms
+console write time    : 10ms
+
+[api-updater (non-obsolete-error-filter)] 1/28/2022 6:06:18 PM : Starting C:/Users/lukas/UnityWorklol/2020.3.25f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 5921.465ms
+moved types parse time: 221ms
+candidates parse time : 4ms
+C# parse time         : 942ms
+candidates check time : 100ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 1/29/2022 9:39:38 AM : Starting C:/Users/lukas/UnityWorklol/2020.3.25f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 5965.1715ms
+moved types parse time: 114ms
+candidates parse time : 3ms
+C# parse time         : 811ms
+candidates check time : 143ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 1/29/2022 10:12:32 AM : Starting C:/Users/lukas/UnityWorklol/2020.3.25f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 343.7723ms
+moved types parse time: 183ms
+candidates parse time : 3ms
+C# parse time         : 488ms
+candidates check time : 79ms
+console write time    : 1ms
+
